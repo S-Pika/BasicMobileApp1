@@ -15,3 +15,4 @@ E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
 E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\refint\Notes.dll
 E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
 E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs

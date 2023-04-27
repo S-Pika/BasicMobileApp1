@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Android", "Notes\Note
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.iOS", "Notes\Notes.iOS\Notes.iOS.csproj", "{0CB3F042-4872-4E28-9290-4D35E009AA5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes", "Notes\Notes\Notes.csproj", "{A197ACE6-C3E5-4B0C-A6C0-7314C008155C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes", "Notes\Notes\Notes.csproj", "{A197ACE6-C3E5-4B0C-A6C0-7314C008155C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
