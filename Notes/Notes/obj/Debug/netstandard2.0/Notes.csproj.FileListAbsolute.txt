@@ -1,0 +1,17 @@
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.AssemblyReference.cache
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\refint\Notes.dll
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+E:\DEVELOPMENT\Git-School\Notes\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
